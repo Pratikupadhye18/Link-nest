@@ -51,4 +51,4 @@ LinkNest is a web application built with React and Appwrite, enabling users to s
 
 For any questions or issues, please contact the project maintainers:
 * **Email:** pajuupadhye1008@gmail.com
-* **GitHub:** https://github.com/pratikupoadhye
+* **GitHub:** https://github.com/pratikupoadhye18
